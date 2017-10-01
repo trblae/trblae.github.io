@@ -1,0 +1,17 @@
+body {
+    background: #FFF;
+    color: black;
+    font-family: helvetica,verdana,arial,sans-serif,monospace;
+    line-height: 1.2;
+    margin: 2em auto;
+    padding: 1em;
+    max-width: 800px;
+}
+
+p, blockquote {
+    font: 16px;
+}
+
+.head {
+    text-align: center;
+}
